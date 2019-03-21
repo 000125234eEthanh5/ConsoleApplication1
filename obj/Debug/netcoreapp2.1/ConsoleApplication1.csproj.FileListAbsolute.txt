@@ -1,0 +1,14 @@
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.deps.json
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.runtimeconfig.json
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.runtimeconfig.dev.json
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.dll
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/ConsoleApplication1.pdb
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/stringUtility.dll
+/Users/ethanh5/apps/ConsoleApplication1/bin/Debug/netcoreapp2.1/stringUtility.pdb
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.AssemblyInfoInputs.cache
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.AssemblyInfo.cs
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.csproj.CopyComplete
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.dll
+/Users/ethanh5/apps/ConsoleApplication1/obj/Debug/netcoreapp2.1/ConsoleApplication1.pdb
